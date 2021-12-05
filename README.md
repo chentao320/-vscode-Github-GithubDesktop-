@@ -20,3 +20,8 @@
 ![](https://note.youdao.com/yws/api/personal/file/WEB7e7c42c8f451bd385258ee890e391ab9?method=download&shareKey=52edb6fab55cf1fbdefb1f32b9562842)
 * 从上面那个图上可以看到左上角有个1，代表没有上传和保存
 * 更改完之后直接保存，然后点开GitHub Desktop
+* 可以看到有一些变绿的代码，代码更新改变的。
+* 点击左下角的Commit to main，和github里面一样。
+![](https://note.youdao.com/yws/api/personal/file/WEBdcbb23e569b09b25d8903d3be5026e43?method=download&shareKey=4073297cc090e1cd5cf49d9d82964728)
+* 最终把更改后的推送到github仓库中即可
+![](https://note.youdao.com/yws/api/personal/file/WEB6ea033c92dedb434fe74c7a903488dd3?method=download&shareKey=4469b857e55f4057b7007fa4739e170d)
